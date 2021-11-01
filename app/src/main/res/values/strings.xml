@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+    <string name="cover">Cover</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="like">Like</string>
+</resources>
